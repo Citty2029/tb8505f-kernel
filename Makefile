@@ -2,7 +2,7 @@ VERSION = 4
 PATCHLEVEL = 19
 SUBLEVEL = 298
 EXTRAVERSION =
-NAME = citty2029
+NAME = gayos :)
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
